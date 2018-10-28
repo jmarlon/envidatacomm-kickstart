@@ -33,8 +33,6 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research focuses on the physical and social dimensions of extreme weather events and natural hazards. I use paleo and modern data along with models to understand how long-term variations in fire occurrence are controlled by changes in climate, vegetation, and human activities; this in turn provides a foundation for understanding fire feedbacks to the climate system. On the social side, I use survey data to study public risk perceptions of weather and climate, focusing currently on hurricanes and heat waves.
